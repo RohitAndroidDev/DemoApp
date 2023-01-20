@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
   protected String getMainComponentName() {
     return "DemoExam";
   }
-
+////rohit
  
  getWindow().setFlags(
        WindowManager.LayoutParams.FLAG_SECURE,
